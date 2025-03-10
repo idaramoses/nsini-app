@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_email_sender/intermediates/merged_res/release/animator/fragment_close_exit.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/59fddaa6dc02c5027e9bce58d74a71d9/transformed/fragment-1.3.6/res/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_email_sender/intermediates/merged_res/release/animator/fragment_fade_enter.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/59fddaa6dc02c5027e9bce58d74a71d9/transformed/fragment-1.3.6/res/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_email_sender/intermediates/merged_res/release/animator/fragment_close_enter.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/59fddaa6dc02c5027e9bce58d74a71d9/transformed/fragment-1.3.6/res/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_email_sender/intermediates/merged_res/release/animator/fragment_open_exit.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/59fddaa6dc02c5027e9bce58d74a71d9/transformed/fragment-1.3.6/res/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_email_sender/intermediates/merged_res/release/animator/fragment_fade_exit.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/59fddaa6dc02c5027e9bce58d74a71d9/transformed/fragment-1.3.6/res/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_email_sender/intermediates/merged_res/release/animator/fragment_open_enter.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/59fddaa6dc02c5027e9bce58d74a71d9/transformed/fragment-1.3.6/res/animator/fragment_open_enter.xml"
+    }
+]

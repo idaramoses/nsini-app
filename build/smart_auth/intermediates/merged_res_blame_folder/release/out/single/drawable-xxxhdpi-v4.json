@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/smart_auth/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer_video_low.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5526c7a843e96df3a019b287cb2599f5/transformed/core-1.12.0/res/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/smart_auth/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5526c7a843e96df3a019b287cb2599f5/transformed/core-1.12.0/res/drawable-xxxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/smart_auth/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer_video.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5526c7a843e96df3a019b287cb2599f5/transformed/core-1.12.0/res/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/smart_auth/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_decline.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5526c7a843e96df3a019b287cb2599f5/transformed/core-1.12.0/res/drawable-xxxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/smart_auth/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_decline_low.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5526c7a843e96df3a019b287cb2599f5/transformed/core-1.12.0/res/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/smart_auth/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer_low.png",
+        "source": "/Users/mac/.gradle/caches/transforms-3/5526c7a843e96df3a019b287cb2599f5/transformed/core-1.12.0/res/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    }
+]

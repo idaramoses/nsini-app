@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/smart_auth/intermediates/merged_res/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/40ebd38eb3521b9fc43f9a86379570f2/transformed/jetified-play-services-auth-20.7.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/smart_auth/intermediates/merged_res/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/40ebd38eb3521b9fc43f9a86379570f2/transformed/jetified-play-services-auth-20.7.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/smart_auth/intermediates/merged_res/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/40ebd38eb3521b9fc43f9a86379570f2/transformed/jetified-play-services-auth-20.7.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

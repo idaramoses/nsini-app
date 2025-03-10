@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/layout-land/material_timepicker.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/layout-land/material_clock_period_toggle_land.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/layout-land/material_clock_period_toggle_land.xml"
+    }
+]

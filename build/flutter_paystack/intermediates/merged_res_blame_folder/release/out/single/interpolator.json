@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/bce28480b186960baf265af387f5f68e/transformed/appcompat-1.5.0/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/mtrl_linear.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/m3_sys_motion_easing_linear.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/m3_sys_motion_easing_linear.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/bce28480b186960baf265af387f5f68e/transformed/appcompat-1.5.0/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/bce28480b186960baf265af387f5f68e/transformed/appcompat-1.5.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/m3_sys_motion_easing_emphasized_decelerate.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/m3_sys_motion_easing_emphasized_decelerate.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/bce28480b186960baf265af387f5f68e/transformed/appcompat-1.5.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/m3_sys_motion_easing_standard.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/m3_sys_motion_easing_standard.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/m3_sys_motion_easing_emphasized.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/m3_sys_motion_easing_emphasized.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/m3_sys_motion_easing_standard_accelerate.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/m3_sys_motion_easing_standard_accelerate.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/bce28480b186960baf265af387f5f68e/transformed/appcompat-1.5.0/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/m3_sys_motion_easing_standard_decelerate.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/m3_sys_motion_easing_standard_decelerate.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/bce28480b186960baf265af387f5f68e/transformed/appcompat-1.5.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/m3_sys_motion_easing_emphasized_accelerate.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/interpolator/m3_sys_motion_easing_emphasized_accelerate.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/bce28480b186960baf265af387f5f68e/transformed/appcompat-1.5.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    }
+]

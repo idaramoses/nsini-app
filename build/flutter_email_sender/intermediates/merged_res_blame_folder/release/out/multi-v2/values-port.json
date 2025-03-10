@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/Downloads/Github/nsini-app/build/flutter_email_sender/intermediates/merged_res/release/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/2394b660533bc813ac70b1246b14e1d2/transformed/appcompat-1.5.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/Downloads/Github/nsini-app/build/flutter_email_sender/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/2394b660533bc813ac70b1246b14e1d2/transformed/appcompat-1.5.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

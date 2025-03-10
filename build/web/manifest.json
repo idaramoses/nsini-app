@@ -1,0 +1,35 @@
+{
+    "name": "FinFinder",
+    "short_name": "FinFinder",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#BED2E9",
+    "theme_color": "#BED2E9",
+    "description": "FinFinder",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/hsd-logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/hsd-logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/hsd-logo.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/hsd-logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

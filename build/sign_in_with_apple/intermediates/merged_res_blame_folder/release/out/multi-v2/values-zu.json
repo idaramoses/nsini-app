@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/mac/Downloads/Github/nsini-app/build/sign_in_with_apple/intermediates/merged_res/release/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/292a270d962baf0e5ea085397332336e/transformed/browser-1.5.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,167,275,387",
+                        "endColumns": "111,107,111,111",
+                        "endOffsets": "162,270,382,494"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "499",
+                        "endColumns": "100",
+                        "endOffsets": "595"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/mac/Downloads/Github/nsini-app/build/sign_in_with_apple/intermediates/incremental/mergeReleaseResources/merged.dir/values-zu/values-zu.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/292a270d962baf0e5ea085397332336e/transformed/browser-1.5.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,167,275,387",
+                        "endColumns": "111,107,111,111",
+                        "endOffsets": "162,270,382,494"
+                    }
+                },
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/b068bbe6676f2bf5d523008891329b92/transformed/core-1.6.0/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "499",
+                        "endColumns": "100",
+                        "endOffsets": "595"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/color-night-v8/material_timepicker_button_stroke.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/color-night-v8/material_timepicker_button_stroke.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/color-night-v8/material_timepicker_clockface.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/color-night-v8/material_timepicker_clockface.xml"
+    },
+    {
+        "merged": "/Users/mac/Downloads/Github/nsini-app/build/flutter_paystack/intermediates/merged_res/release/color-night-v8/material_timepicker_modebutton_tint.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-3/cf030e718d61920714d1275a37994517/transformed/material-1.7.0/res/color-night-v8/material_timepicker_modebutton_tint.xml"
+    }
+]

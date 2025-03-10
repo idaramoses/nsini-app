@@ -1,0 +1,9 @@
+import 'dart:io'; // Import for mobile
+
+class FileHandler {
+  final File file;
+
+  FileHandler(this.file);
+
+  File getFile() => file;
+}
